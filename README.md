@@ -3,6 +3,8 @@
 ## 📝 Descrição
 Finance é uma aplicação web que simula uma plataforma de negociação de ações. Os usuários podem registrar-se, fazer login, consultar cotações em tempo real, comprar e vender ações, além de gerenciar seu portfólio e histórico de transações.
 
+![image](docs/image.png)
+
 ## 🔧 Tecnologias Utilizadas
 - Python 3.x
 - Flask (Framework web)
@@ -151,6 +153,3 @@ ModuleNotFoundError: No module named 'flask'
 ```
 Solução: Execute `pip install -r requirements.txt`
 
-## 📚 Documentação Adicional
-Para mais informações sobre o CS50 Finance, visite:
-https://cs50.harvard.edu/x/2023/psets/9/finance/
