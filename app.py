@@ -13,7 +13,6 @@ from flask import url_for
 from werkzeug.security import generate_password_hash, check_password_hash
 
 
-
 from helpers import apology, login_required, lookup, usd
 
 # Configure application
